@@ -1,0 +1,21 @@
+{
+
+    "produtos":[
+      {"id":"123456","nome":"tinta preta","valorvenda":"30,00", "quantidade":"5","dataValidade":"03/12/2024","fornecedor":"claudemar"},
+      {"id":"123465","nome":"tinta rosa","valorvenda":"35,00", "quantidade":"10","dataValidade":"02/12/2024","fornecedor":"edvan"}
+    ],
+
+    "servico":[
+        {"id":"123456","nome":"corte feminino","duracao":"30","preco": "45,00", "cargo":"cabeleireira"},
+        {"id":"123433","nome":"mão","duracao":"20","preco": "30,00","cargo":"manicure"}
+    ],
+    "fornecedor":[
+        
+        {"id":"98765","nome":"claudemar","telefone":"32324040","celular":"999999999","dtaNasc":"10/10/2000","email":"claudemar@gmail.com"},
+        {"id":"98565","nome":"edvan","telefone":"32323030","celular":"999999988","dtaNasc":"10/11/2000","email":"edvan@gmail.com"}
+    ],
+    "funcionario":[
+        {"id":"1","cpf":"00011122233","nome":"jurema","telefone":"32403240","celular": "988888888","dtaNasc":"13/01/1999","email":"jurema@gmail.com","senha":"1234","cargo":"cabeleireira"},
+        {"id":"2","cpf":"00011122244","nome":"edylaine","telefone":"32403255","celular": "988998888","dtaNasc":"20/07/1999","email":"edylaine@gmail.com","senha":"4321","cargo":"manicure"}
+    ]
+  }
