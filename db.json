@@ -1,19 +1,110 @@
 {
     "Clientes": [
-        {"id": "1", "cpf": "99988877766", "nome": "Rita", "telefone": "32334444", "celular": "998334444", "email": "rita@yahoo.com", "senha": "ritinhadocelinho"},
-        {"id": "2", "cpf": "99988878888", "nome": "Gelva", "telefone": "32334455", "celular": "998335544", "email": "gelva@yahoo.com", "senha": "gelvaaa"}
+        {
+            "id": "1",
+            "cpf": "99988877766",
+            "nome": "Rita",
+            "telefone": "32334444",
+            "celular": "998334444",
+            "email": "rita@yahoo.com",
+            "senha": "ritinhadocelinho"
+        },
+        {
+            "id": "2",
+            "cpf": "99988878888",
+            "nome": "Gelva",
+            "telefone": "32334455",
+            "celular": "998335544",
+            "email": "gelva@yahoo.com",
+            "senha": "gelvaaa"
+        }
     ],
     "Colaboradores": [
-        {"id": "1", "cpf": "99988877766", "nome": "Carlota", "telefone": "32334444", "celular": "998334444", "email": "carlotaJF@yahoo.com", "senha": "CarlotaSG", "cargo": "Administradora"}
+        {
+            "id": "1",
+            "cpf": "99988877766",
+            "nome": "Carlota",
+            "telefone": "32334444",
+            "celular": "998334444",
+            "email": "carlotaJF@yahoo.com",
+            "senha": "CarlotaSG",
+            "cargo": "Administradora"
+        }
     ],
     "Cargo": [
-        {"id": "212122", "nome": "manicure"},
-        {"id": "212133", "nome": "Administradora"}
+        {
+            "id": "212122",
+            "nome": "manicure"
+        },
+        {
+            "id": "212133",
+            "nome": "Administradora"
+        }
     ],
     "Loja": [
-        {"id": "13", "cnpj": "1212121", "nome": "Illumine", "email": "illumine@gmail.com", "telefone": "3232-5555", "celular": "977775555", "dtaCriacao": "12/05/2015", "logradouro": "Rua", "numero": "1", "complemento": "Loja", "bairro": "São Geraldo", "cidade": "Juiz de Fora", "estado": "Minas Gerais", "cep": "36021-370"},
-        {"id": "14", "cnpj": "1212333", "nome": "PsycoHair", "email": "psycoHair@gmail.com", "telefone": "3232-5533", "celular": "977775533", "dtaCriacao": "13/05/2015", "logradouro": "Rua 1", "numero": "2", "complemento": "Loja", "bairro": "São Pedro", "cidade": "Juiz de Fora", "estado": "Minas Gerais", "cep": "36021-352"},
-        {"id": "15", "cnpj": "1212166", "nome": "MadDog", "email": "BadDog@gmail.com", "telefone": "3232-5566", "celular": "977775566", "dtaCriacao": "12/07/2015", "logradouro": "Rua 2", "numero": "12", "complemento": "Loja", "bairro": "Santa Terezinha", "cidade": "Juiz de Fora", "estado": "Minas Gerais", "cep": "36021-361"},
-        {"id": "16", "cnpj": "1212112", "nome": "Salão", "email": "salao@gmail.com", "telefone": "3232-5566", "celular": "977775566", "dtaCriacao": "12/10/2015", "logradouro": "Rua 3", "numero": "5", "complemento": "Loja", "bairro": "Santa Luzia", "cidade": "Juiz de Fora", "estado": "Minas Gerais", "cep": "36021-382"}
+        {
+            "id": "13",
+            "cnpj": "1212121",
+            "nome": "Illumine",
+            "email": "illumine@gmail.com",
+            "telefone": "3232-5555",
+            "celular": "977775555",
+            "dtaCriacao": "12/05/2015",
+            "logradouro": "Rua",
+            "numero": "1",
+            "complemento": "Loja",
+            "bairro": "São Geraldo",
+            "cidade": "Juiz de Fora",
+            "estado": "Minas Gerais",
+            "cep": "36021-370"
+        },
+        {
+            "id": "14",
+            "cnpj": "1212333",
+            "nome": "PsycoHair",
+            "email": "psycoHair@gmail.com",
+            "telefone": "3232-5533",
+            "celular": "977775533",
+            "dtaCriacao": "13/05/2015",
+            "logradouro": "Rua 1",
+            "numero": "2",
+            "complemento": "Loja",
+            "bairro": "São Pedro",
+            "cidade": "Juiz de Fora",
+            "estado": "Minas Gerais",
+            "cep": "36021-352"
+        },
+        {
+            "id": "15",
+            "cnpj": "1212166",
+            "nome": "MadDog",
+            "email": "BadDog@gmail.com",
+            "telefone": "3232-5566",
+            "celular": "977775566",
+            "dtaCriacao": "12/07/2015",
+            "logradouro": "Rua 2",
+            "numero": "12",
+            "complemento": "Loja",
+            "bairro": "Santa Terezinha",
+            "cidade": "Juiz de Fora",
+            "estado": "Minas Gerais",
+            "cep": "36021-361"
+        },
+        {
+            "id": "16",
+            "cnpj": "1212112",
+            "nome": "Salão",
+            "email": "salao@gmail.com",
+            "telefone": "3232-5566",
+            "celular": "977775566",
+            "dtaCriacao": "12/10/2015",
+            "logradouro": "Rua 3",
+            "numero": "5",
+            "complemento": "Loja",
+            "bairro": "Santa Luzia",
+            "cidade": "Juiz de Fora",
+            "estado": "Minas Gerais",
+            "cep": "36021-382"
+        }
     ]
 }
