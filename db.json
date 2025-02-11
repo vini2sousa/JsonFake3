@@ -110,10 +110,20 @@
       "Agendamento": [
         {
             "id": "1",
-            "data": "99988877766",
-            "horario": "Rita",
-            "servico": "32334444",
-            "preferenciaFuncionario": "998334444"
+            "data": "10/04/2025",
+            "horario": "13:00",
+            "servico": "Corte Feminino",
+            "preferenciaFuncionario": "Claudio"
+            
+            
+        }
+    ], "Agendamento": [
+        {
+            "id": "1",
+            "data": "25/02/2025",
+            "horario": "18:00",
+            "servico": "Corte Masculino",
+            "preferenciaFuncionario": "Joana"
             
             
         }
