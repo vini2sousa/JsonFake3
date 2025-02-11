@@ -127,26 +127,6 @@
             
             
         }
-    ],
-    "Venda": [
-        {
-            "id": "6",
-            "cliente": "Paulo",
-            "produto": "tinta preta",
-            "dataVenda": "11/02/2025",
-            "horarioVenda": "16:00"
-            
-            
-        },
- 
-        {
-            "id": "7",
-            "cliente": "Maria",
-            "produto": "tinta azul",
-            "dataVenda": "15/05/2025",
-            "horarioVenda": "14:30"
-            
-            
-        }
     ]
+   
 }
