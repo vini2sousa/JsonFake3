@@ -7,7 +7,7 @@
             "telefone": "32334444",
             "celular": "998334444",
             "email": "rita@yahoo.com",
-            "senha": "ritinhadocelinho"
+            "senha": "ritinhadocelinho",
             "loja": "beauty"
         },
         {
@@ -17,7 +17,7 @@
             "telefone": "32334455",
             "celular": "998335544",
             "email": "gelva@yahoo.com",
-            "senha": "gelvaaa"
+            "senha": "gelvaaa",
             "loja": "HairMax"
         }
     ],
@@ -129,7 +129,7 @@
             "data": "25/02/2025",
             "horario": "18:00",
             "servico": "Corte Masculino",
-            "preferenciaFuncionario": "Joana"
+            "preferenciaFuncionario": "Joana",
             "loja": "ImproveHair"
             
             
